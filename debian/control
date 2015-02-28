@@ -1,0 +1,12 @@
+
+Source: eyepi-meta
+Section: admin
+Priority: important
+Maintainer: Bruno Maitre <bruno.maitre@gmail.com>
+Build-Depends: debhelper (>= 7.0.0~)
+Standards-Version: 3.9.2
+
+Package: eyepi-meta
+Architecture: all
+Depends: bash, apt, eyepi-fstab-config, eyepi-network-config
+Description: Eye Pi metapackage

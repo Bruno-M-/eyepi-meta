@@ -1,3 +1,9 @@
+eyepi-meta (1.5) stable; urgency=medium
+
+  * Add procps config package
+
+ -- Bruno Maitre <bruno.maitre@gmail.com>  Sun, 01 Mar 2015 17:16:02 +0100
+
 eyepi-meta (1.4) stable; urgency=medium
 
   * Add ssh config package

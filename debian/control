@@ -7,11 +7,10 @@ Standards-Version: 3.9.2
 
 Package: eyepi-meta
 Architecture: all
-Depends: \
-	apt, \
-	bash, \
-	eyepi-fstab-config, \
-	eyepi-network-config, \
-	eyepi-inittab-config, \
-	vim
+Depends: apt,
+	 bash,
+	 eyepi-fstab-config,
+	 eyepi-network-config,
+	 eyepi-inittab-config,
+	 vim
 Description: Eye Pi metapackage

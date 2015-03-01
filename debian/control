@@ -1,4 +1,3 @@
-
 Source: eyepi-meta
 Section: admin
 Priority: important
@@ -8,5 +7,11 @@ Standards-Version: 3.9.2
 
 Package: eyepi-meta
 Architecture: all
-Depends: bash, apt, eyepi-fstab-config, eyepi-network-config
+Depends: \
+	apt, \
+	bash, \
+	eyepi-fstab-config, \
+	eyepi-network-config, \
+	eyepi-inittab-config, \
+	vim
 Description: Eye Pi metapackage

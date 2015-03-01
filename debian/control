@@ -10,8 +10,9 @@ Architecture: all
 Depends: apt,
 	 bash,
 	 eyepi-fstab-config,
-	 eyepi-network-config,
 	 eyepi-inittab-config,
+	 eyepi-network-config,
+	 eyepi-ssh-config,
 	 sudo,
 	 vim
 Description: Eye Pi metapackage

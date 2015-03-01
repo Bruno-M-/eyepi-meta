@@ -1,4 +1,11 @@
-eyepi-meta (1.1) UNRELEASED; urgency=medium
+eyepi-meta (1.2) stable; urgency=low
+
+  [ Bruno Maitre ]
+  * Fix Depends field
+
+ -- Bruno Maitre <bruno.maitre@gmail.com>  Sun, 01 Mar 2015 09:21:31 +0000
+
+eyepi-meta (1.1) stable; urgency=medium
 
   * Add inittab config and vim
 

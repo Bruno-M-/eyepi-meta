@@ -1,3 +1,9 @@
+eyepi-meta (1.3) stable; urgency=medium
+
+  * Add sudo
+
+ -- Bruno Maitre <bruno.maitre@gmail.com>  Sun, 01 Mar 2015 11:54:19 +0100
+
 eyepi-meta (1.2) stable; urgency=low
 
   [ Bruno Maitre ]

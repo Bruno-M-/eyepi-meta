@@ -12,5 +12,6 @@ Depends: apt,
 	 eyepi-fstab-config,
 	 eyepi-network-config,
 	 eyepi-inittab-config,
+	 sudo,
 	 vim
 Description: Eye Pi metapackage

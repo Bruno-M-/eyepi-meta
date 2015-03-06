@@ -1,3 +1,9 @@
+eyepi-meta (1.7) unstable; urgency=medium
+
+  * Add strongswan config package
+
+ -- Bruno Maitre <bruno.maitre@gmail.com>  Fri, 06 Mar 2015 05:23:36 +0100
+
 eyepi-meta (1.6) unstable; urgency=medium
 
   * Switch to unstable. 

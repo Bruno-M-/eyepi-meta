@@ -16,6 +16,7 @@ Depends: apt,
 	 eyepi-procps-config,
 	 eyepi-ssh-config,
 	 eyepi-strongswan-config,
+	 eyepi-syslogng-config,
 	 sudo,
 	 vim
 Description: Eye Pi metapackage

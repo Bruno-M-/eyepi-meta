@@ -1,3 +1,9 @@
+eyepi-meta (1.9) unstable; urgency=medium
+
+  * Add eyepi-iptables-config
+
+ -- Bruno Maitre <bruno.maitre@gmail.com>  Sun, 08 Mar 2015 08:03:43 +0100
+
 eyepi-meta (1.8) unstable; urgency=medium
 
   * Add ntp config package

@@ -1,3 +1,10 @@
+eyepi-meta (1.8) unstable; urgency=medium
+
+  * Add ntp config package
+  * Add syslog-ng package
+
+ -- Bruno Maitre <bruno.maitre@gmail.com>  Sat, 07 Mar 2015 15:09:00 +0100
+
 eyepi-meta (1.7) unstable; urgency=medium
 
   * Add strongswan config package

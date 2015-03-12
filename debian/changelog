@@ -1,3 +1,9 @@
+eyepi-meta (1.10) unstable; urgency=medium
+
+  * Remove syslog-ng metapackage we will use journald
+
+ -- Bruno Maitre <bruno.maitre@gmail.com>  Thu, 12 Mar 2015 20:29:17 +0100
+
 eyepi-meta (1.9) unstable; urgency=medium
 
   * Add eyepi-iptables-config

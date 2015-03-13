@@ -10,7 +10,6 @@ Architecture: all
 Depends: apt,
 	 bash,
 	 eyepi-fstab-config,
-	 eyepi-inittab-config,
 	 eyepi-iptables-config,
 	 eyepi-network-config,
 	 eyepi-ntp-config,

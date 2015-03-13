@@ -1,3 +1,9 @@
+eyepi-meta (1.11) unstable; urgency=medium
+
+  * Remove inittab config package we will try to focus on systemd
+
+ -- Bruno Maitre <bruno.maitre@gmail.com>  Fri, 13 Mar 2015 04:38:17 +0100
+
 eyepi-meta (1.10) unstable; urgency=medium
 
   * Remove syslog-ng metapackage we will use journald
